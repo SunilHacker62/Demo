@@ -9,6 +9,6 @@ const Child = React.memo(({user}) => {
     </div>
   );
 });
-export default Child
+export default Child;
 
  
